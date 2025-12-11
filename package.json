@@ -13,16 +13,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/free-holmes/token.git"
+    "url": "git+https://github.com/holmesfree/token.git"
   },
   "keywords": ["holmes", "pardon", "second-chance", "base", "omnichain"],
   "author": "",
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/free-holmes/token/issues"
+    "url": "https://github.com/holmesfree/token/issues"
   },
-  "homepage": "https://github.com/free-holmes/token#readme",
+  "homepage": "https://github.com/holmesfree/token#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^6.1.0",
     "@openzeppelin/contracts": "^5.5.0",

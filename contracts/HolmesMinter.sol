@@ -8,7 +8,7 @@ import {ReentrancyGuard} from "@openzeppelin/contracts/utils/ReentrancyGuard.sol
 /// @title HolmesMinter - Progressive Fee Free Mint
 /// @notice Allows users to mint HOLMES tokens with a progressive fee that goes to protocol-owned liquidity
 /// @dev All fees are permanently added to Uniswap V3 liquidity - no one can withdraw
-/// @custom:security-contact security@freeholmes.org
+/// @custom:security-contact security@holmes.free
 contract HolmesMinter is Ownable, ReentrancyGuard {
     /// @notice HOLMES token contract
     IERC20 public immutable holmesToken;

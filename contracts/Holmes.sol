@@ -12,7 +12,7 @@ import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
 /// @title Holmes Token - A Second Chance
 /// @notice A free mint community token supporting the pardon of Elizabeth Holmes
 /// @dev Omnichain token launching on Base, bridgeable across the Superchain
-/// @custom:security-contact security@freeholmes.org
+/// @custom:security-contact security@holmes.free
 contract Holmes is ERC20, ERC20Bridgeable, ERC20Burnable, ERC20Pausable, Ownable, ERC20Permit {
     address internal constant SUPERCHAIN_TOKEN_BRIDGE = 0x4200000000000000000000000000000000000028;
     error Unauthorized();
