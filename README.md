@@ -52,9 +52,9 @@ npm run deploy:base
 
 ## Links
 
-- Website: https://freeholmes.org
+- Website: https://holmes.free
 - Twitter: @FreeHolmesToken
-- GitHub: https://github.com/free-holmes
+- GitHub: https://github.com/holmesfree
 
 ## Disclaimer
 
